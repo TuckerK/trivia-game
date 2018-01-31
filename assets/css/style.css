@@ -1,0 +1,13 @@
+#pokemonLogo{
+    margin: 0 auto;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.startBtn{
+    margin: 20px;
+}
+
+.questionContainer{
+    text-align: center;
+}
